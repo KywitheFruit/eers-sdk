@@ -25,4 +25,8 @@
     e.e.r.s. has many applications. We're excited to see how you'll incorporate it in the hack-a-thon and beyond. Blow our minds. 
 
 ## How To Get Started
-    Follwo this link to help us get you started  
+    Fill out this form to help us get you started. 
+    
+    https://airtable.com/shr1jmIukvINvEq2k
+
+    We'll assign you with an api key to work with! 
